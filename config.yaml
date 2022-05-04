@@ -42,5 +42,5 @@ template:
 
 lm:
   model_type: 'bert'
-  param_name: 'bert-large-cased'
+  param_name: 'bert-base-uncased'
   device: *device
